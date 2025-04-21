@@ -516,7 +516,7 @@ background: #fff;
 .footer-social-title {
   font-weight: 500;
   margin-bottom: 16px;
-  color: var(--text-white);
+  color: var(--white-color);
 } 
 .footer-nav-list {
   display: flex;
